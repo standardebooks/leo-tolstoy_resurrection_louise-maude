@@ -6,6 +6,11 @@ body [xml|lang]{
 	font-style: italic;
 }
 
+body [xml|lang] i,
+body [xml|lang] [epub|type~="z3998:signature"]{
+	font-style: normal;
+}
+
 /* Begin letter CSS */
 [epub|type~="z3998:letter"] header{
 	text-align: right;
