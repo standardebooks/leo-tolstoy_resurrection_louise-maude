@@ -7,7 +7,8 @@ body [xml|lang]{
 }
 
 body [xml|lang] i,
-body [xml|lang] [epub|type~="z3998:signature"]{
+body [xml|lang] [epub|type~="z3998:signature"],
+i i[xml|lang]{
 	font-style: normal;
 }
 
