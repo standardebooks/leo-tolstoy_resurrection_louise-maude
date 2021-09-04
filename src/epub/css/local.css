@@ -2,13 +2,15 @@
 @namespace epub "http://www.idpf.org/2007/ops";
 @namespace xml "http://www.w3.org/XML/1998/namespace";
 
+q,
 body [xml|lang]{
 	font-style: italic;
 }
 
 body [xml|lang] i,
 body [xml|lang] [epub|type~="z3998:signature"],
-i i[xml|lang]{
+q em,
+q i[xml|lang]{
 	font-style: normal;
 }
 
