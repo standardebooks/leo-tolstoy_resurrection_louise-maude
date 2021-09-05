@@ -79,6 +79,7 @@
 		<meta property="display-seq" refines="#translator-1">1</meta>
 		<meta property="role" refines="#translator-1" scheme="marc:relators">trl</meta>
 		<meta property="se:role" refines="#translator-1" scheme="marc:relators">ann</meta>
+		<meta property="se:role" refines="#translator-1" scheme="marc:relators">wpr</meta>
 		<dc:contributor id="artist">Ilya Repin</dc:contributor>
 		<meta property="file-as" refines="#artist">Repin, Ilya</meta>
 		<meta property="se:name.person.full-name" refines="#artist">Ilya Yefimovich Repin</meta>
