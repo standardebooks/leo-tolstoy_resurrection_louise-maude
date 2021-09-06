@@ -2,8 +2,8 @@
 <package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/leo-tolstoy/resurrection/louise-maude</dc:identifier>
-		<dc:date>1900-01-01T00:00:00Z</dc:date>
-		<meta property="dcterms:modified">1900-01-01T00:00:00Z</meta>
+		<dc:date>2021-09-06T02:52:23Z</dc:date>
+		<meta property="dcterms:modified">2021-09-06T02:52:23Z</meta>
 		<dc:rights>The source text and artwork in this ebook edition are believed to be in the U.S. public domain. This ebook edition is released under the terms in the CC0 1.0 Universal Public Domain Dedication, available at https://creativecommons.org/publicdomain/zero/1.0/. For full license information see the Uncopyright file included at the end of this ebook.</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -54,15 +54,15 @@
 		<meta property="se:subject">Fiction</meta>
 		<dc:description id="description">A Russian landlord makes reparations to the woman he wronged in his youth.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			&lt;p&gt;&lt;i&gt;Resurrection&lt;/i&gt;, the last full-length novel written by &lt;a href="https://standardebooks.org/ebooks/leo-tolstoy"&gt;Leo Tolstoy&lt;/a&gt;, was published in 1899 after ten years in the making. A humanitarian cause—the pacifist Doukhobor sect, persecuted by the Russian government, needed funds to emigrate to Canada—prompted Tolstoy to finish the novel and dedicate its ensuing revenues to alleviate the plight of the Doukhobors. (Ultimately, Tolstoy’s actions have been credited with helping hundreds of Doukhobors emigrate to Canada.)&lt;/p&gt;
-			&lt;p&gt;&lt;i&gt;Resurrection&lt;/i&gt; centers on the relationship between Nekhlúdoff, a Russian landlord, and Máslova, a prostitute whose life took a turn for the worse after Nekhlúdoff wronged her ten years prior to the events of the novel. After Nekhlúdoff happens to sit in the jury for a trial in which Máslova is accused of poisoning a merchant, Nekhlúdoff begins to understand the harm he has inflicted upon Máslova—and the harm that the Russian state and society inflicts upon the poor and marginalized—as he embarks on a quest to alleviate Máslova’s suffering.&lt;/p&gt;
-			&lt;p&gt;Nekhlúdoff’s process of spiritual awakening in &lt;i&gt;Resurrection&lt;/i&gt; serves as a framing for many of the novel’s religious and political themes, such as the hypocrisy of State Christianity and the injustice of the penal system, which were also the subject of Tolstoy’s nonfiction treatise on Christian anarchism, &lt;a href="https://standardebooks.org/ebooks/leo-tolstoy/the-kingdom-of-god-is-within-you/leo-wiener"&gt;&lt;i&gt;The Kingdom of God Is Within You&lt;/i&gt;&lt;/a&gt;. Another political theme that the novel explores is the “single tax” economic theory propounded by the American economist &lt;a href="https://standardebooks.org/ebooks/henry-george"&gt;Henry George&lt;/a&gt;, which drives a major subplot in the novel concerning the management of Nekhlúdoff’s estates.&lt;/p&gt;
+			&lt;p&gt;&lt;i&gt;Resurrection&lt;/i&gt;, the last full-length novel written by &lt;a href="https://standardebooks.org/ebooks/leo-tolstoy"&gt;Leo Tolstoy&lt;/a&gt;, was published in 1899 after ten years in the making. A humanitarian cause—the pacifist Doukhobor sect, persecuted by the Russian government, needed funds to emigrate to Canada—prompted Tolstoy to finish the novel and dedicate its ensuing revenues to alleviate their plight. Ultimately, Tolstoy’s actions were credited with helping hundreds of Doukhobors emigrate to Canada.&lt;/p&gt;
+			&lt;p&gt;The novel centers on the relationship between Nekhlúdoff, a Russian landlord, and Máslova, a prostitute whose life took a turn for the worse after Nekhlúdoff wronged her ten years prior to the novel’s events. After Nekhlúdoff happens to sit in the jury for a trial in which Máslova is accused of poisoning a merchant, Nekhlúdoff begins to understand the harm he has inflicted upon Máslova—and the harm that the Russian state and society inflicts upon the poor and marginalized—as he embarks on a quest to alleviate Máslova’s suffering.&lt;/p&gt;
+			&lt;p&gt;Nekhlúdoff’s process of spiritual awakening in &lt;i&gt;Resurrection&lt;/i&gt; serves as a framing for many of the novel’s religious and political themes, such as the hypocrisy of State Christianity and the injustice of the penal system, which were also the subject of Tolstoy’s nonfiction treatise on Christian anarchism, &lt;a href="https://standardebooks.org/ebooks/leo-tolstoy/the-kingdom-of-god-is-within-you/leo-wiener"&gt;&lt;i&gt;The Kingdom of God Is Within You&lt;/i&gt;&lt;/a&gt;. The novel also explores the “single tax” economic theory propounded by the American economist &lt;a href="https://standardebooks.org/ebooks/henry-george"&gt;Henry George&lt;/a&gt;, which drives a major subplot in the novel concerning the management of Nekhlúdoff’s estates.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/1938</dc:source>
 		<dc:source>https://archive.org/details/cu31924027464647</dc:source>
-		<meta property="se:word-count">WORD_COUNT</meta>
-		<meta property="se:reading-ease.flesch">READING_EASE</meta>
+		<meta property="se:word-count">174393</meta>
+		<meta property="se:reading-ease.flesch">69.01</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Resurrection_(Tolstoy_novel)</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/leo-tolstoy_resurrection_louise-maude</meta>
 		<dc:creator id="author">Leo Tolstoy</dc:creator>
@@ -103,6 +103,10 @@
 		<meta property="se:role" refines="#producer-1" scheme="marc:relators">mrk</meta>
 		<meta property="se:role" refines="#producer-1" scheme="marc:relators">pfr</meta>
 		<meta property="se:role" refines="#producer-1" scheme="marc:relators">tyg</meta>
+		<dc:contributor id="producer-2">Emma Sweeney</dc:contributor>
+		<meta property="file-as" refines="#producer-2">Sweeney, Emma</meta>
+		<meta property="se:url.homepage" refines="#producer-2">https://www.linkedin.com/in/emma-sweeney-554927190/</meta>
+		<meta property="role" refines="#producer-2" scheme="marc:relators">pfr</meta>
 	</metadata>
 	<manifest>
 		<item href="css/core.css" id="core.css" media-type="text/css"/>
