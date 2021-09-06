@@ -7,7 +7,6 @@ body [xml|lang]{
 	font-style: italic;
 }
 
-body [xml|lang] i,
 body [xml|lang] [epub|type~="z3998:signature"],
 q em,
 q i[xml|lang]{
