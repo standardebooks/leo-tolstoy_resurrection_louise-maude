@@ -2,16 +2,6 @@
 @namespace epub "http://www.idpf.org/2007/ops";
 @namespace xml "http://www.w3.org/XML/1998/namespace";
 
-q,
-body [xml|lang]{
-	font-style: italic;
-}
-
-q em,
-q i[xml|lang]{
-	font-style: normal;
-}
-
 /* Begin letter CSS */
 footer{
 	margin-top: 1em;
