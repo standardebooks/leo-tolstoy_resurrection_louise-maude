@@ -52,7 +52,7 @@
 		<meta property="authority" refines="#subject-7">LCSH</meta>
 		<meta property="term" refines="#subject-7">Unknown</meta>
 		<meta property="schema:genre">Fiction</meta>
-		<dc:abstract>A Russian landlord makes reparations to the woman he wronged in his youth.</dc:abstract>
+		<meta property="schema:abstract">A Russian landlord makes reparations to the woman he wronged in his youth.</meta>
 		<dc:description>
 			&lt;p&gt;&lt;i&gt;Resurrection&lt;/i&gt;, the last full-length novel written by &lt;a href="https://standardebooks.org/ebooks/leo-tolstoy"&gt;Leo Tolstoy&lt;/a&gt;, was published in 1899 after ten years in the making. A humanitarian cause—the pacifist Doukhobor sect, persecuted by the Russian government, needed funds to emigrate to Canada—prompted Tolstoy to finish the novel and dedicate its ensuing revenues to alleviate their plight. Ultimately, Tolstoy’s actions were credited with helping hundreds of Doukhobors emigrate to Canada.&lt;/p&gt;
 			&lt;p&gt;The novel centers on the relationship between Nekhlúdoff, a Russian landlord, and Máslova, a prostitute whose life took a turn for the worse after Nekhlúdoff wronged her ten years prior to the novel’s events. After Nekhlúdoff happens to sit in the jury for a trial in which Máslova is accused of poisoning a merchant, Nekhlúdoff begins to understand the harm he has inflicted upon Máslova—and the harm that the Russian state and society inflicts upon the poor and marginalized—as he embarks on a quest to alleviate Máslova’s suffering.&lt;/p&gt;
