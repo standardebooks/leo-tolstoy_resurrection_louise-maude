@@ -30,13 +30,13 @@
 		<meta property="schema:accessibilitySummary">This publication conforms to WCAG 2.2 Level AA.</meta>
 		<dc:title id="title">Resurrection</dc:title>
 		<meta property="file-as" refines="#title">Resurrection</meta>
-		<dc:subject id="subject-1">Atonement -- Fiction</dc:subject>
-		<dc:subject id="subject-2">Russia -- Social conditions -- 1801-1917 -- Fiction</dc:subject>
-		<dc:subject id="subject-3">Aristocracy (Social class) -- Russia -- Fiction</dc:subject>
-		<dc:subject id="subject-4">Prostitutes -- Russia -- Fiction</dc:subject>
-		<dc:subject id="subject-5">Trials (Murder) -- Russia -- Fiction</dc:subject>
-		<dc:subject id="subject-6">Change -- Religious aspects -- Fiction</dc:subject>
-		<dc:subject id="subject-7">Social justice -- Russia -- Fiction</dc:subject>
+		<dc:subject id="subject-1">Atonement--Fiction</dc:subject>
+		<dc:subject id="subject-2">Russia--Social conditions--1801-1917--Fiction</dc:subject>
+		<dc:subject id="subject-3">Aristocracy (Social class)--Russia--Fiction</dc:subject>
+		<dc:subject id="subject-4">Prostitutes--Russia--Fiction</dc:subject>
+		<dc:subject id="subject-5">Trials (Murder)--Russia--Fiction</dc:subject>
+		<dc:subject id="subject-6">Change--Religious aspects--Fiction</dc:subject>
+		<dc:subject id="subject-7">Social justice--Russia--Fiction</dc:subject>
 		<meta property="authority" refines="#subject-1">LCSH</meta>
 		<meta property="term" refines="#subject-1">sh2007101564</meta>
 		<meta property="authority" refines="#subject-2">LCSH</meta>
